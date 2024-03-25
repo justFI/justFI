@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justFI
 - 💞️ I'm an iOS developer
 - 👀 I'm interested in technology and new things, and AI
-- 🌱 I’m currently learning vue
+- 📚 I’m currently learning tools to improve efficiency
 
 
 <!---
